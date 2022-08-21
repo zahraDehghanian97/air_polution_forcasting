@@ -1,0 +1,6 @@
+{
+  "add_holiday_features": true,
+  "future_weather_lookahead": 1,
+  "output_time_steps": 3,
+  "input_time_steps": 3
+}

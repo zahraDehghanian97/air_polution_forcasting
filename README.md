@@ -1,1 +1,2 @@
-# air_polution_forcasting
+# dashboard_aqi
+
